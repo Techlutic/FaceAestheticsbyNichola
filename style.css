@@ -568,6 +568,7 @@ img {
     text-align: center;
     color: var(--bg-white);
     padding: 0 2rem;
+    margin-top: 120px;
 }
 
 .hero-badge {
